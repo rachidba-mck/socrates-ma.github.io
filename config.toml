@@ -257,11 +257,6 @@ googleAnalytics = "278882533"
  		 		logo = "aneo-square.jpg"
  		 		link = "http://www.aneo.eu"
 
-		# [[params.sponsor]]
-		# 	name = "codecentric"
-		# 	logo = "codecentric-square.png"
-		# 	link = "http://www.codecentric.de"
-
 		 [[params.sponsor]]
           	name = "McKinsey & Company"
           	logo = "mck-square.png"
