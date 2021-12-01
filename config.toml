@@ -64,8 +64,8 @@ googleAnalytics = "278882533"
 	[params.hero]
 		# To change the background image of the hero, replace 'header-bg.jpg' in
 		# the 'static/img' folder.
-		title = "Feb-March, 2022. International Conference for Software Craft and Testing."
-		subtitle = "SoCraTes MAroc 2022"
+		title = "March 25-27, 2022. International Conference for Software Craft and Testing."
+		subtitle = "SoCraTES MAroc 2022"
 		buttontext = "Tell me more"
 
 	# Services section
@@ -121,16 +121,16 @@ googleAnalytics = "278882533"
 
 		[[params.about.events]]
 			img = "1.jpg"
-			date = "March, 2022"
+			date = "March 25-27, 2022"
 			title = "First edition"
-			description = "Coming soon"
+			description = "See you in 2022"
 
 	# Team section
 	[params.team]
 		enable = true
 		title = "SoCraTes-MA is a part of a big family."
-		subtitle = "The first “Software Craftsmanship and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
-		description = "Other conferences have emerged in other European countries such as SoCraTes UK and SoCraTes Canaries."
+		subtitle = "The first “Software Craft and Testing (un)conference” took place a few years ago in Germany and is organised every year since 2011."
+		description = "Other conferences have emerged in other European countries such as SoCraTes UK SoCraTes FR and SoCraTes Canaries."
 
 
 		# All team member's pictures are stored under 'static/img/team'.
@@ -149,7 +149,7 @@ googleAnalytics = "278882533"
 			name = "SoCraTes"
 			position = "Germany"
 			social = [
-				["fa-twitter", "https://twitter.com/socrates_2016"],
+				["fa-twitter", "https://twitter.com/SoCraTes_Conf"],
 				["fa-link", "https://www.socrates-conference.de"]
 			]
 
@@ -167,8 +167,8 @@ googleAnalytics = "278882533"
 			name = "SoCraTes Canaries"
 			position = "Spain"
 			social = [
-				["fa-twitter", "https://twitter.com/#socracan16"],
-				["fa-link", "http://www.socrates-conference.es"]
+				["fa-twitter", "https://twitter.com/socracan"],
+				["fa-link", "https://www.socracan.com/"]
 			]
 
 		[[params.team.members]]
@@ -185,7 +185,7 @@ googleAnalytics = "278882533"
 			name = "SoCraTes BE"
 			position = "Belgium"
 			social = [
-				["fa-twitter", "https://twitter.com/#SoCraTesBE"],
+				["fa-twitter", "https://twitter.com/SoCraTes_BE"],
 				["fa-link", "http://socratesbe.org"]
 			]
 
