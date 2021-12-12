@@ -33,7 +33,7 @@ googleAnalytics = "278882533"
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
 	email = "socrates.ma@gmail.com"
-	gforms = "1FAIpQLSf-fnFC8qOqnBmL3-NaoG2KjEZHXosNsl39DwgJvwEs1_qzOg"
+	gforms = "1FAIpQLSf-twYBMXXmVQXaoftOrVy8tQu1alYA1Hvdfe0dzMcLTdUVpg"
 
 	# Navigation
 	[params.navigation]
@@ -106,7 +106,6 @@ googleAnalytics = "278882533"
 			date = "Date"
 			category = "Category"
 			buttontext = "Close"
-
 
 	# About section
 	[params.about]
@@ -225,57 +224,77 @@ googleAnalytics = "278882533"
 				["fa-link", "https://agilecrete.org"]
 			]
 
+	# Partners section
+	[params.partners]
+		enable = true
+		title = "Our Knowledge Partner"
+		subtitle = ""
+
+		[[params.partner]]
+			name = "McKinsey & Company"
+			logo = "mck-square.png"
+			link = "https://www.mckinsey.com/"
 
 	# Sponsor section
 	[params.sponsors]
-		enable = false
+		enable = true
 		title = "Our Sponsors"
 		subtitle = ""
 
 		[[params.sponsor]]
-			name = "Arolla"
-			logo = "arolla-square.jpg"
-			link = "http://www.arolla.fr"
+			name = "INWI"
+			logo = "inwi-square.jpeg"
+			link = "https://inwi.ma/"
 
 		[[params.sponsor]]
-			name = "Octo Technology"
-			logo = "octo-square.png"
-			link = "http://www.octo.com"
+			name = "Maltem Africa"
+			logo = "maltem-square.jpeg"
+			link = "https://maltem.com/en/blog/portfolio-item/maltem-africa/"
+
+		[[params.sponsor]]
+			name = "NimbleWays"
+			logo = "nimble-square.jpeg"
+			link = "https://www.nimbleways.com"
 
  		[[params.sponsor]]
- 				name = "SOAT"
- 				logo = "soat-square.png"
- 				link = "http://www.soat.fr"
+			name = "Gemography"
+			logo = "gemography-square.png"
+			link = "https://www.gemography.com"
 
-		[[params.sponsor]]
-			name = "Shodo"
-			logo = "shodo-square.png"
-			link = "https://shodo.io"
+		#[[params.sponsor]]
+		#	name = "Octo Technology"
+		#	logo = "octo-square.png"
+		#	link = "http://www.octo.com"
 
-		[[params.sponsor]]
- 		 		name = "Aneo"
- 		 		logo = "aneo-square.jpg"
- 		 		link = "http://www.aneo.eu"
+ 		#[[params.sponsor]]
+ 		#		name = "SOAT"
+ 		#		logo = "soat-square.png"
+ 		#		link = "http://www.soat.fr"
 
-		 [[params.sponsor]]
-          	name = "McKinsey & Company"
-          	logo = "mck-square.png"
-          	link = "https://www.mckinsey.com/"
+		#[[params.sponsor]]
+		#	name = "Shodo"
+		#	logo = "shodo-square.png"
+		#	link = "https://shodo.io"
 
-		 [[params.sponsor]]
-		 	name = "Novencia"
-		 	logo = "novencia-square.jpg"
-		 	link = "http://www.novencia.com"
+		#[[params.sponsor]]
+ 		# 		name = "Aneo"
+ 		# 		logo = "aneo-square.jpg"
+ 		# 		link = "http://www.aneo.eu"
+
+		# [[params.sponsor]]
+		# 	name = "Novencia"
+		# 	logo = "novencia-square.jpg"
+		# 	link = "http://www.novencia.com"
 
 		 [[params.sponsor]]
 		 	name = "Axa"
 		 	logo = "axa-square.jpg"
 		 	link = "https://www.axa.fr"
 
-		 [[params.sponsor]]
-        	name = "BCG Platinion"
-        	logo = "bcg-square.png"
-        	link = "https://www.bcg.com/"
+		# [[params.sponsor]]
+        #	name = "BCG Platinion"
+        #	logo = "bcg-square.png"
+        #	link = "https://www.bcg.com/"
 
 # 		[[params.sponsor]]
 # 			name = "Viseo Technologies"
@@ -287,10 +306,10 @@ googleAnalytics = "278882533"
 # 			logo = "codurance-square.png"
 # 			link = "http://codurance.com"
 
- 		 [[params.sponsor]]
- 		 	name = "Orange"
- 		 	logo = "orange-square.png"
- 		 	link = "https://developer.orange.com"
+ 		# [[params.sponsor]]
+ 		# 	name = "Orange"
+ 		# 	logo = "orange-square.png"
+ 		# 	link = "https://developer.orange.com"
 
 		# [[params.sponsor]]
 		# 	name = "Zenika"
@@ -305,8 +324,8 @@ googleAnalytics = "278882533"
 
 	[params.contact]
 		enable = true
-		title = "Registration"
-		subtitle  = "Pre-registration is now open. Please leave your email here to let us know you will PROBABLY participate in the event."
+		title = "Pre-registration is now open !!"
+		subtitle  = "The event will be limited to 30 participants for this first edition, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat."
 		buttonText = "Send message"
 
 	# Footer section
