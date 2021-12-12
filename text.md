@@ -1,8 +1,8 @@
-# SoCraTes Maroc 2021
+# SoCraTes Maroc 2022
 
-SoCraTes FRance
+SoCraTes Maroc
 
-October 29-31st, 2021.
+March 25-27st, 2022.
 International Software Craftsmanship and Testing Conference.
 
 

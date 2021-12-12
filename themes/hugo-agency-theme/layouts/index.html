@@ -26,6 +26,10 @@
             {{ partial "socratesday.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.partners.enable }}
+            {{ partial "partners.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.sponsors.enable }}
             {{ partial "sponsors.html" . }}
         {{ end }}
