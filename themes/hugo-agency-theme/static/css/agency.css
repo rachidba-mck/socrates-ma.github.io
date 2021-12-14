@@ -895,3 +895,16 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #fed136;
 }
+
+.socrates-logo{
+    margin: auto;
+    margin-bottom: -200px;
+}
+
+.socrates-logo img {
+    margin: auto;
+    position: relative;
+    top: 50px;
+    width: 250px;
+    height: 250px;
+}
