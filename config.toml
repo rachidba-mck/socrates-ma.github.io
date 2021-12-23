@@ -325,7 +325,7 @@ googleAnalytics = "278882533"
 	[params.contact]
 		enable = true
 		title = "Pre-registration is now open !!"
-		subtitle  = "The event will be limited to 30 participants for this first edition, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat."
+		subtitle  = "The event will be limited to 30 participants with a managed hotel accomodation for this first edition, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat and the kind of access you will be able to opt for."
 		buttonText = "Send message"
 
 	# Footer section
