@@ -241,10 +241,10 @@ googleAnalytics = "278882533"
 		title = "Our Sponsors"
 		subtitle = ""
 
-		[[params.sponsor]]
-			name = "INWI"
-			logo = "inwi-square.jpeg"
-			link = "https://inwi.ma/"
+#		[[params.sponsor]]
+#			name = "INWI"
+#			logo = "inwi-square.jpeg"
+#			link = "https://inwi.ma/"
 
 		[[params.sponsor]]
 			name = "Maltem Africa"
