@@ -306,6 +306,12 @@ googleAnalytics = "278882533"
 		 	name = "La Combe du Lion Vert"
 		 	logo = "La_Combe_du_Lion_Vert.png"
 		 	link = "https://la-combe-du-lion-vert.fr/"
+		
+		[[params.sponsor]]
+			name = "Keiken Digital Solutions"
+			logo = "keiken.jpeg"
+			link = "https://keiken-digital.com/"
+
 
 		# [[params.sponsor]]
         #	name = "BCG Platinion"
