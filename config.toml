@@ -309,7 +309,7 @@ googleAnalytics = "278882533"
 		
 		[[params.sponsor]]
 			name = "Keiken Digital Solutions"
-			logo = "keiken.jpeg"
+			logo = "keiken-logo.jpg"
 			link = "https://keiken-digital.com/"
 
 
