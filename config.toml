@@ -39,12 +39,13 @@ googleAnalytics = "278882533"
 
 	# Navigation
 	[params.navigation]
-		brand = "SoCraTes Maroc 2022"
-		services = "What it is about?"
+		brand = "SoCraTes Maroc"
+		services = "What is it?"
 		portfolio = "Information"
 		about = "History"
 		team = "Family"
 		contact = "Registration"
+		partners = "Partners"
 		sponsors = "Sponsors"
 
 	# Add custom links. Those can be pre- and postpended to the default menu above.
