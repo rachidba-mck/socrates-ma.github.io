@@ -35,7 +35,7 @@ googleAnalytics = "278882533"
 	# - click the confirm link in the email from www.formspree.io
 	# - you're done. Happy mailing!
 	email = "socrates.ma@gmail.com"
-	gforms = "1FAIpQLSf-twYBMXXmVQXaoftOrVy8tQu1alYA1Hvdfe0dzMcLTdUVpg"
+	gforms = "1FAIpQLScIR1x5GFpAKIXzukcCqb4uue98riVEVnCZxzRqyTxbdi4VDg"
 
 	# Navigation
 	[params.navigation]
@@ -129,7 +129,7 @@ googleAnalytics = "278882533"
 
 
       [[params.about.events]]
-			img = "1.jpg"
+			img = "ronsard.jpg"
 			date = "March 25-27, 2022"
 			title = "First edition - Marrakesh"
 			description = "We gathered 30 software craft and 8 partner/sponsors"
@@ -283,15 +283,15 @@ googleAnalytics = "278882533"
 			logo = "inwi-square.jpeg"
 			link = "https://inwi.ma/"
 
-		#[[params.sponsor]]
-		#	name = "NimbleWays"
-		#	logo = "nimble-square.jpeg"
-		#	link = "https://www.nimbleways.com"
+		[[params.sponsor]]
+			name = "NimbleWays"
+			logo = "nimble-square.jpeg"
+			link = "https://www.nimbleways.com"
 
- 		#[[params.sponsor]]
-		#	name = "Gemography"
-		#	logo = "gemography-square.png"
-		#	link = "https://www.gemography.com"
+ 		[[params.sponsor]]
+			name = "Gemography"
+			logo = "gemography-square.png"
+			link = "https://www.gemography.com"
 
 		#[[params.sponsor]]
 		#	name = "Octo Technology"
@@ -360,9 +360,9 @@ googleAnalytics = "278882533"
 
 	[params.contact]
 		enable = true
-		title = "Registration will be open soon, stay tuned !!"
-		#subtitle  = "The event will be limited to 30 participants with a managed hotel accomodation within Palais Ronsard for this first edition, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat and the kind of access you will be able to opt for."
-		#buttonText = "Send message"
+		title = "Pre-registration is now open !!"
+		subtitle  = "The event will be limited to 40 participants with a managed hotel accomodation within Vichy Celestins, \n\n Please mind filling the form with your details, we will reach out and eventually confirm your seat"
+		buttonText = "Send message"
 
 	# Footer section
 	[params.footer]
