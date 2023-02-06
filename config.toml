@@ -254,7 +254,7 @@ googleAnalytics = "278882533"
 
 		[[params.partner]]
 			name = "McKinsey & Company"
-			logo = "McKinsey_Company.png"
+			logo = "mckinsey-logo.png"
 			link = "https://www.mckinsey.com/"
 
 	# Sponsor section
