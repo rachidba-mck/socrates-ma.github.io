@@ -21,7 +21,6 @@ googleAnalytics = "278882533"
 	# information about you and your website.
 	name = "SoCraTes Maroc"
 	description = "International Conference for Software Craft and Testing"
-	baseurl = "https://socrates-ma.github.io/"
 
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
