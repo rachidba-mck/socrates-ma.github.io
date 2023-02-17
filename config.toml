@@ -274,7 +274,7 @@ googleAnalytics = "278882533"
 
 		[[params.sponsor]]
 		 	name = "Zenika"
-		 	logo = "Vertical_Black_Logo Zenika.png"
+		 	logo = "Vertical_Black_Logo_Zenika.png"
 		 	link = "http://www.zenika.com"
 
 		[[params.sponsor]]
